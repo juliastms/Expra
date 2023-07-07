@@ -1,0 +1,8 @@
+reference angle: 0
+numsteps per direction: 5
+stepsize: 2
+stimulus intensities: [ 10,  8,  6,  4,  2,  0,  -2,  -4,  -6,  -8,  -10]
+num intensities: 11
+trials per intensity: 5
+numtrials: 55
+trials : [ -2,  0,  8,  -6,  10,  -4,  -2,  -4,  -10,  -6,  -6,  10,  6,  -10,  10,  0,  8,  -8,  2,  6,  -8,  -8,  6,  -2,  -8,  2,  4,  -4,  8,  4,  10,  0,  -2,  0,  4,  -8,  2,  8,  2,  2,  8,  6,  -4,  0,  4,  -2,  6,  -6,  -6,  -10,  -10,  4,  -4,  -10,  10]
